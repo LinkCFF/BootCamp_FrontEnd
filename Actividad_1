@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Prueba para el uso de html y css.">
+    <title>Mi primera página</title>
+    <link rel="stylesheet" href="./CSS/style.css">
+</head>
+    <body>
+
+    <main>
+
+        <div class="titleTest">
+            <h1>Mi primera página web</h1>
+            <label ><span id="titulo1"> sirve? 👉👈</span></label>
+        </div>
+
+        <div>
+            <ul id="ul1">Un poco de texto a la izquierda</ul>
+            <ul id="ul2">Otro poquito a la derecha</ul>
+            <ul id="ul3">Al revés</ul>
+            <label id="bio"><a  href="https://cfierro.bio.link" target="_blank" rel="noopener noreferrer">CLICK PARA VER MI BIO 😱👉⭕</a></label>
+        </div>
+        
+        <div id="img1"> <img id="img" width="550" src="./IMG/Hold my Madeline.gif" alt="La bola amarilla tierna sosteniendo a madeline mientras hace T-bag" /> </div>
+        
+        <p>Cosas por hacer:</p>
+        <ol>
+            <li>Aprender más sobre html y css</li>
+            <li>Aprender a usar el submit</li>
+            <li>Hacer código</li>
+        </ol>
+        
+    </main>
+
+    </body>
+</html>
